@@ -1,2 +1,2 @@
 # Excel-challenge
-This is the Crowdfunding Excel workbook and WrittenReportAnalysis fpr the Module 01 challenge
+This is the Crowdfunding Excel workbook and WrittenReportAnalysis for the Module 01 challenge
